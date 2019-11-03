@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041397289757",
+    "firebase_url": "https://chatbee-529da.firebaseio.com",
+    "project_id": "chatbee-529da",
+    "storage_bucket": "chatbee-529da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041397289757:android:bd51ba286356e55225c7f4",
+        "android_client_info": {
+          "package_name": "com.sylabblueprint.chatbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041397289757-24kcnqnts6goqlm7pgs6e9s8lqclv4p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sylabblueprint.chatbee",
+            "certificate_hash": "92563d86471c202be2151bfc25571eb0498c55bc"
+          }
+        },
+        {
+          "client_id": "1041397289757-ga22q9pkc6cblvpidto60s8b27poqft1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDur8D_0qerJGirGPmx_1ApQnEdy37Vt7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041397289757-ga22q9pkc6cblvpidto60s8b27poqft1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
