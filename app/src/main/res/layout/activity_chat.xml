@@ -43,6 +43,9 @@
                    android:textStyle="bold"
                    />
 
+
+            <!--Receiver's Status i.e Online or Offline
+            will implement later-->
                <TextView
                    android:id="@+id/userStatusTv"
                    android:layout_width="match_parent"
